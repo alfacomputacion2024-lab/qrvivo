@@ -35,6 +35,15 @@ SaaS que permite crear **QRs dinámicos**: el QR guarda una dirección corta nue
 - **Edición Fundadores**: primeros 50 negocios pagan **8 $ para siempre** (luego 12 $) + plantilla personalizada lista para editar.
 - **Garantía 30 días**: si no ahorra en reimpresiones, se devuelve el pago.
 
+## 📚 Documentos del proyecto
+
+| Documento | Contenido |
+|---|---|
+| [**PLAN.md**](PLAN.md) | Plan de acción de lanzamiento por fases + scripts de venta + KPIs |
+| [**ESTRATEGIA.md**](ESTRATEGIA.md) | Modelo de negocio, precios y freemium, rentabilidad, competencia, riesgos |
+| [**MVP.md**](MVP.md) | Arquitectura técnica (Cloudflare Worker + D1), modelo de datos, endpoints, fases |
+| [**index.html**](index.html) | Landing de validación (publicada en GitHub Pages) |
+
 ## 📂 Estructura del repo
 
 ```
