@@ -42,13 +42,13 @@ SaaS que permite crear **QRs dinámicos**: el QR guarda una dirección corta nue
 | [**PLAN.md**](PLAN.md) | Plan de acción de lanzamiento por fases + scripts de venta + KPIs |
 | [**ESTRATEGIA.md**](ESTRATEGIA.md) | Modelo de negocio, precios y freemium, rentabilidad, competencia, riesgos |
 | [**MVP.md**](MVP.md) | Arquitectura técnica (Cloudflare Worker + D1), modelo de datos, endpoints, fases |
-| [**index.html**](index.html) | Landing de validación (publicada en GitHub Pages) |
+| [**index.html**](index.html) | Landing de validación (publicada en GitHub Pages) — incluye generador de QR y **editor de cartel con foto** gratis |
 
 ## 📂 Estructura del repo
 
 ```
 landing-qr/           ← carpeta local (repo remoto: qrvivo)
-├── index.html        ← landing de una sola página (hero, logos, demo QR real, precios, FAQ, CTA)
+├── index.html        ← landing de una sola página (hero, logos, demo QR, editor de cartel con foto, precios, FAQ, CTA)
 ├── README.md         ← este archivo (visión general)
 ├── PLAN.md           ← plan de acción de lanzamiento por fases + scripts + KPIs
 ├── ESTRATEGIA.md     ← modelo de negocio, freemium, rentabilidad y competencia
